@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ff9bf433-bbde-4b30-9ada-5fe85594dd25",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "车灯": {
+      "ver": "1.0.4",
+      "uuid": "6d3e6c47-97b8-4251-89fb-094da6984158",
+      "rawTextureUuid": "ff9bf433-bbde-4b30-9ada-5fe85594dd25",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 2,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 180,
+      "height": 232,
+      "rawWidth": 180,
+      "rawHeight": 238,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

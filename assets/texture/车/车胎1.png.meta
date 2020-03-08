@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "38753dd0-9d1b-4c5f-885f-b44ec21ff12d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "车胎1": {
+      "ver": "1.0.4",
+      "uuid": "44b21068-4718-4d0a-acb2-4cc3292db908",
+      "rawTextureUuid": "38753dd0-9d1b-4c5f-885f-b44ec21ff12d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 90,
+      "height": 89,
+      "rawWidth": 90,
+      "rawHeight": 89,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0590bd74-a510-43cc-bfe9-8686b77581dd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "货箱01": {
+      "ver": "1.0.4",
+      "uuid": "9a082b04-2f15-4850-8f68-cc5d12fb8f4b",
+      "rawTextureUuid": "0590bd74-a510-43cc-bfe9-8686b77581dd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 112,
+      "height": 101,
+      "rawWidth": 112,
+      "rawHeight": 101,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

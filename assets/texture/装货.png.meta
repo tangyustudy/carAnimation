@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2ceba4b9-3612-4e7a-b8ec-3a32f940e1d8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "装货": {
+      "ver": "1.0.4",
+      "uuid": "9829ba4a-a078-41fe-9eca-5ce19d7a78fd",
+      "rawTextureUuid": "2ceba4b9-3612-4e7a-b8ec-3a32f940e1d8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 181,
+      "height": 65,
+      "rawWidth": 181,
+      "rawHeight": 65,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
